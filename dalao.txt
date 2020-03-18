@@ -4,7 +4,7 @@ Facebook应用研究科学家Albert Gordo（引用量4164）
 
 微软亚洲研究院高级首席研究经理， Associate Editor of IEEE TPAMI, IEEE TMM and IEEE TCSVT，Jingdong Wang（引用量15645）
 
-IEEE Trans编辑委员，合肥工业大学教授 Meng Wang，曾获多个顶级会议期刊最佳论文奖（引用量15067）
+IEEE Trans编辑委员，曾获多个顶级会议期刊最佳论文奖的合肥工业大学计算机学院院长，教授Meng Wang（引用量15067）
 
 乔治亚理工学院计算机科学教授，引用量20952，IJCV编辑委员会成员James M. Rehg教授
 
@@ -97,3 +97,39 @@ TMM主编，SPIE/IAPR/IEEE/ACM/AAAI Fellow，罗彻斯特大学教授Jiebo Luo�
 ACM/IEEE Fellow，伊利诺伊大学芝加哥分校杰出教授Philip S. Yu（引用118661）
 
 IEEE Fellow，上海交通大学教授Xiaokang Yang（引用13360）
+
+佛罗里达大学教授Lin Yang（引用11881）
+
+清华大学自动化系副教授Jianjiang Feng（引用4236）
+
+卡昂·诺曼底大学教授Frederic Jurie（引用21773）
+
+北卡罗来纳大学夏洛特分校教授Jianping Fan（引用8038）
+
+国家杰出青年科学基金获得者，中国科学院自动化研究所模式识别国家重点实验室研究员Weiming Hu（引用23643）
+
+中科院自动化所教授Junliang XING（引用5682）
+
+山东大学教授，齐鲁学者Liqiang Nie（引用6524）
+
+IET Fellow，暗物智能科技CEO，中山大学数据科学与计算机学院教授Liang Lin（引用9698）
+
+滑铁卢大学教授Ladan Tahvildari（引用4547）
+
+三星研究院副院长，北京大学教授Zhouchen Lin（引用15987）
+
+南方科技大学教授wang xiaohui（引用61233）
+
+以色列科技大学教授Alex Bronstein（引用11823）
+
+卡内基梅隆大学机器人研究所主任，IJCV总主编，教授martial hebert（引用43535）
+
+上海交通大学教授Linpeng HUANG（引用9166）
+
+UCF教授Guo-Jun Qi（引用8417）
+
+UCF教授Kien Hua（引用10078）
+
+山东大学教授Gongping Yang（引用7368）
+
+日本国家信息研究院教授Shin'ichi Satoh（引用9811）
