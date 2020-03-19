@@ -72,7 +72,7 @@ IEEE高级会员 ，SPIE遥感联合主席，中国广州国际遥感影像多�
 
 曾获得CVPR 2010的最佳学生论文，悉尼科技大学的教授Ivor W. Tsang（引用14502）
 
-国家千人计划获得者，IEEE/IET Fellow颜庆义
+国家千人计划获得者，IEEE/IET Fellow King Ngi Ngan
 
 阿里巴巴达摩院高级研究员刘铸
 
@@ -133,3 +133,109 @@ UCF教授Kien Hua（引用10078）
 山东大学教授Gongping Yang（引用7368）
 
 日本国家信息研究院教授Shin'ichi Satoh（引用9811）
+
+MICCAI Fellow 慕尼黑工业大学教授Nassir Navab（引用30854）
+
+奥鲁大学教授Abdenour Hadid（引用15083）
+
+宁夏大学副教授Li Haibo（引用34410）
+
+天津大学教授Qinghua Hu（引用10913）
+
+中科院自动化所模式识别国家重点实验室教授Liang Wang（引用17195）
+
+IEEE/AIMBE/MICCAI Fellow，罗格斯大学杰出教授Dimitris N. Metaxas（引用33576）
+
+IEEE Fellow，特伦托大学教授Lorenzo Bruzzone（引用32466）
+
+田纳西大学教授Hairong Qi（引用9207）
+
+国家优青，合肥工业大学教授Richang Hong（引用9053）
+
+中科院深圳先进研究院数字所所长Yu Qiao（引用14517）
+
+东南大学教授Xin Geng（引用4325）
+
+IEEE Fellow，约翰霍普金斯大学教授Trac D. Tran（引用10478）
+
+北京大学计算机科学技术系主任，教授Tiejun Huang（引用5448）
+
+IEEE/IAPR/IET Fellow约克大学教授Edwin Hancock（引用14027）
+
+浙江大学教授Song, Mingli（引用10006）
+
+亚利桑那大学教授Baoxin Li（引用7187）
+
+中科院自动化所模式识别国家重点实验室教授Shiming Xiang（引用6506）
+
+IAPR Fellow，中科院自动化所模式识别国家重点实验室教授Zhenan Sun（引用8070）
+
+Florida International University 教授 Chen-Zhong Li（引用41450）
+
+IBM Thomas J. Watson Research Center研究员Jun Wang（引用9687）
+
+武汉大学教授Qian Wang(引用13763)
+
+深圳大学教授Li Qing-Quan（引用12255）
+
+蒙特利尔大学/蒙特利尔高等研究院教授Irina Rish（引用6984）
+
+挪威科技大学教授Christoph Busch（引用7835）
+
+上海交通大学教授Hongtao Lu（引用4203）
+
+上海交通大学教授Yong Yu（引用19738）
+
+中科院自动化所教授Shiguang Shan（引用18636）
+
+国家杰青，ACM/IEEE/IAPR Fellow，中科院自动化所研究员Xilin Chen（引用19156）
+
+加利福尼亚大学默塞德分校教授Miguel A. Carreira-Perpinan（引用5810）
+
+TPAMI首席编辑，ACM/IEEE/AAAS/SPIE Fellow，美国科学院院士，印度科学院/中科院外籍院士密歇根州立大学教授Anil K. Jain
+
+特拉维夫大学教授Lior Wolf（30839）
+
+浙江大学教授Deng Cai（引用22115）
+
+IEEE Fellow代尔夫特理工大学教授Alan Hanjalic
+
+IAPR Fellow，IIAI CEO Ling Shao（引用15132）
+
+IEEE Fellow，UCSD教授Nuno Vasconcelos（引用17823）
+
+香港理工大学教授Ajay Kumar（引用11530）
+
+IEEE/ACM Fellow、中国工程院院士、北gao京大学博雅讲席教授、信息科学技术学院院长Wen Gao（引用40899）
+
+伦敦大学学院教授Jun Wang（引用7574）
+
+香港理工大学教授Jane You（引用7911）
+
+中科大教授Feng Wu（引用14695）
+
+爱荷华大学教授Weiguo Fan（引用9199）
+
+清华大学副教授Yue Gao（引用5780）
+
+IEEE Fellow，西安交通大学软件学院院长Yihong Gong（引用23440）
+
+纽卡斯尔大学教授Hongyu Zhang（引用5268）
+
+IEEE Fellow，香港城市大学教授Sam Kwong（引用16452）
+
+南洋理工大学副教授Sinno Jialin Pan（引用15097）
+
+南京航空航天大学计算机科学与技术学院教授Xiaoyang Tan（引用7216）
+
+IEEE Fellow，西安电子科技大学教授Licheng Jiao（引用38567）
+
+北京航空航天大学教授Yunhong Wang（引用15483）
+
+杭州电子科技大学教授Jun Yu（引用5310）
+
+IEEE/IET/EURASIP Fellow，皇家科学院院士，萨里大学教授Josef Kittler（引用66684）
+
+湖南大学教授Shutao Li（引用14403）
+
+冰岛大学校长，IEEE/SPIE Fellow，Jón Atli Benediktsson（引用29732）
